@@ -7,6 +7,7 @@ For better learning please install the android tutorial app in ur mobile( availa
 In this, I only used single & most easiest widget, explore the other widget by learning from app and ask me
 about any query you have in this.
 
+This folder also contains the "hello world" app explained in ppt. you can also refer to that to study code.
 
 
 Refer to my other repositiries for other small and easy application.
